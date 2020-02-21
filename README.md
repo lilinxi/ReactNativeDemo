@@ -17,7 +17,8 @@ npm config set registry https://registry.npm.taobao.org
 npm config set registry https://registry.npmjs.org
 npm config get registry
 
-sudo xcode-select --switch /Applications/Xcode.app
+sudo xcode-select --switch /Applications/Xcode.app # ios
+brew cask install android-sdk # android
 
 npx react-native init AwesomeProject
 
