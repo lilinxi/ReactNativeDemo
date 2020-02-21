@@ -23,4 +23,8 @@ brew cask install android-sdk # android
 npx react-native init AwesomeProject
 
 yarn add @commitlint/config-conventional @commitlint/cli --dev
+
+npm start
+yarn ios
+yarn android
 ```
