@@ -27,4 +27,9 @@ yarn add @commitlint/config-conventional @commitlint/cli --dev
 npm start
 yarn ios
 yarn android
+
+
+# The Android build tools only support JDK 1.7 & 1.8 currently.
+
+# The setup guide already specifies that it requires JDK 1.8:
 ```
